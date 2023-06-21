@@ -1,3 +1,6 @@
 .idea/*
 
-env/*
+project/env/*
+
+project/.coverage
+project/htmlcov/*
